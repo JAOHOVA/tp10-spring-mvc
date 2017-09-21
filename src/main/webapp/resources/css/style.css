@@ -1,0 +1,33 @@
+@CHARSET "UTF-8";
+
+#formProducts {
+	padding: 5px;
+	border-style: dotted;
+}
+
+.table1 th {
+	margin: 5px;
+	background-color: aqua;
+	border-style: dotted;
+}
+
+.table1 td {
+	padding: 5px;
+	border-style: dotted;
+}
+
+#listProducts {
+	padding: 5px;
+	border-style: dotted;
+}
+
+.table2 th {
+	margin: 5px;
+	border-style: dotted;
+	background-color: aqua;
+}
+
+.table2 td {
+	padding: 5px;
+	border-style: dotted;
+}
